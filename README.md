@@ -20,3 +20,4 @@ OS: Ubuntu 18 / Ubuntu 20 / Ubuntu 22
 
 
 `curl -o installer.sh -L https://xtream-masters.com/files/iptv/master_admin/install.sh && bash installer.sh`
+
